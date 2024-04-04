@@ -1,0 +1,57 @@
+html {
+    background-color: #333;
+}
+
+body {
+     background-color: yellow;
+    
+
+}
+
+.russo-one-regular {
+    font-family: "Russo One", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    color: blue;
+  }
+
+.protest-riot-regular {
+    font-family: "Protest Riot", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: normal;
+    color: blue;
+  }
+  
+.paytone-one-regular {
+    font-family: "Paytone One", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    color: red;
+    margin-right: 20px;
+  }
+  
+  
+.Wrapper {
+    padding: 30px;
+}
+
+#dip1 {
+    color: red; 
+    margin-bottom: 20px;
+}
+
+#dip2 {
+    color: red; 
+    margin-bottom: 20px;
+}
+
+
+
+button {
+    background-color: lightblue;
+    border-radius: 10px;
+    
+}
