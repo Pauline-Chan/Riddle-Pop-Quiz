@@ -17,7 +17,7 @@ body {
 .protest-riot-regular {
     font-family: "Protest Riot", sans-serif;
     font-size: 40px;
-    font-weight: 400;
+    font-weight: 200;
     font-style: normal;
     color: blue;
   }
@@ -28,29 +28,44 @@ body {
     font-weight: 400;
     font-style: normal;
     color: red;
-    margin-right: 20px;
+    
   }
   
 .Wrapper {
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#H {
+    color: magenta;
+}
+
+#dip1, #dip2, #dip3, #dip4, #dip5, #dip6, #dip7, #dip8, #dip9, #dip10, #dip11, #dip12, #dip13, #dip14, #dip15, #dip16, #dip17, #dip18, #dip19, #dip20, #dip21, #dip22, #dip23, #dip24, #dip25 {
+    color: red; 
+    margin-bottom: 20px;
+}
+
+
+/*img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    padding: 20px;
+}
+*/
+
+img {
+    float: right;
     padding: 30px;
 }
-
-#dip1 {
-    color: red; 
-    margin-bottom: 20px;
-}
-
-#dip2 {
-    color: red; 
-    margin-bottom: 20px;
-}
-
 button {
     background-color: lightblue;
     border-radius: 10px;
     
 }
 
-.btn {
-    display: flex;
-}
